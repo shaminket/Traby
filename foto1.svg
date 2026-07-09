@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Paneles solares">
+  <rect width="800" height="600" fill="#0a1d1b"/>
+  <circle cx="645" cy="120" r="70" fill="#f5c84c"/>
+  <polygon points="90,410 480,280 710,390 300,520" fill="#102c2a"/>
+  <polygon points="135,390 480,292 665,377 303,490" fill="#1b97c0"/>
+  <g stroke="#09211f" stroke-width="8" opacity=".62">
+    <path d="M210 370 L380 466"/><path d="M300 345 L470 440"/><path d="M390 320 L560 414"/>
+    <path d="M166 420 L552 310"/><path d="M246 462 L638 350"/>
+  </g>
+  <path d="M0 500 C200 450 350 540 520 488 C665 445 730 475 800 455 L800 600 L0 600 Z" fill="#082522"/>
+</svg>

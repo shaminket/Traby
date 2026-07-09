@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Areas verdes">
+  <rect width="800" height="600" fill="#09211e"/>
+  <path d="M0 420 C180 330 320 450 480 360 C615 285 705 345 800 305 L800 600 L0 600 Z" fill="#0d352b"/>
+  <path d="M70 500 C220 405 390 430 530 360 C640 305 710 300 800 265" fill="none" stroke="#55d6e8" stroke-width="16" opacity=".45"/>
+  <g fill="#5ee27a">
+    <circle cx="160" cy="325" r="48"/><rect x="153" y="362" width="14" height="76" fill="#8a633d"/>
+    <circle cx="290" cy="390" r="36"/><rect x="284" y="418" width="12" height="58" fill="#8a633d"/>
+    <circle cx="560" cy="275" r="52"/><rect x="552" y="316" width="15" height="88" fill="#8a633d"/>
+    <circle cx="675" cy="342" r="40"/><rect x="669" y="372" width="12" height="62" fill="#8a633d"/>
+  </g>
+  <g fill="#f5c84c" opacity=".9">
+    <circle cx="245" cy="506" r="7"/><circle cx="380" cy="468" r="7"/><circle cx="620" cy="420" r="7"/>
+  </g>
+</svg>
