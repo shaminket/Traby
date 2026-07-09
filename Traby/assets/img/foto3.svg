@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Edificios inteligentes">
+  <rect width="800" height="600" fill="#081a18"/>
+  <rect x="120" y="200" width="130" height="290" fill="#17494d"/>
+  <rect x="300" y="125" width="170" height="365" fill="#226158"/>
+  <rect x="520" y="235" width="150" height="255" fill="#123b42"/>
+  <g fill="#b8fff4" opacity=".74">
+    <rect x="148" y="235" width="22" height="28"/><rect x="200" y="235" width="22" height="28"/>
+    <rect x="148" y="318" width="22" height="28"/><rect x="200" y="318" width="22" height="28"/>
+    <rect x="335" y="168" width="26" height="32"/><rect x="410" y="168" width="26" height="32"/>
+    <rect x="335" y="260" width="26" height="32"/><rect x="410" y="260" width="26" height="32"/>
+    <rect x="552" y="270" width="24" height="30"/><rect x="615" y="270" width="24" height="30"/>
+  </g>
+  <g>
+    <polygon points="106,188 225,150 255,188" fill="#1a9fc5"/>
+    <polygon points="292,113 438,72 478,113" fill="#53d87a"/>
+    <polygon points="512,224 646,185 676,224" fill="#1a9fc5"/>
+  </g>
+  <rect y="490" width="800" height="110" fill="#06110f"/>
+</svg>

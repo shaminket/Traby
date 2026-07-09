@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Aerogenerador">
+  <rect width="800" height="600" fill="#0a2224"/>
+  <path d="M0 420 C180 360 300 440 455 390 C600 344 710 388 800 352 L800 600 L0 600 Z" fill="#082018"/>
+  <g transform="translate(420 140)" stroke="#effffb" stroke-linecap="round">
+    <line x1="0" y1="360" x2="0" y2="88" stroke-width="15"/>
+    <circle cx="0" cy="82" r="20" fill="#effffb" stroke="none"/>
+    <path d="M0 82 L-145 20" stroke-width="13"/>
+    <path d="M0 82 L132 14" stroke-width="13"/>
+    <path d="M0 82 L-10 238" stroke-width="13"/>
+  </g>
+  <path d="M145 165 C245 115 305 120 380 150" fill="none" stroke="#55d6e8" stroke-width="8" opacity=".55"/>
+  <path d="M110 225 C245 165 365 188 482 220" fill="none" stroke="#5ee27a" stroke-width="8" opacity=".48"/>
+</svg>
